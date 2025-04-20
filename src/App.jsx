@@ -7,6 +7,7 @@ import DesignSection from './components/DesignSection'
 import FeaturesSection from './components/FeaturesSection'
 import Hero from './components/Hero'
 import Navbar from './components/Navbar'
+import TryNow from './components/TryNow'
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
         <DesignSection/>
         <CustomerSection/>
         <About/>
+        <TryNow/>
     </>
   )
 }
